@@ -20,6 +20,7 @@
   - Follow prompts in tutorial linked above
 - To authenticate the Terraform provider, run `export AWS_ACCESS_KEY_ID=` and `export AWS_SECRET_ACCESS_KEY=` in terminal
 - You will need an SSH Key pair, run `ssh-keygen -t rsa -b 2048` in terminal
+  - The `id_rsa.pub` left in the project root directory is just an example, please replace them with your SSH keys! - Also I did not include my private key `id_rsa` for obvious security reasons but your public and private keys should be in same directory
   - I put these in my project directory but you could put them wherever, as long as you adjust the relative file paths in the code (more on this below)
 
 ## Tutorial
