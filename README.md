@@ -1,4 +1,4 @@
-# CS 312 Midterm
+# CS 312 Final
 
 ## Video Demo
 - https://youtu.be/GoWg8F8hCXs
